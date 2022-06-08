@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdanCastro
-- 👀 I’m interested in Java, Angular, Spring Framework, Postgres, 
+- 👀 I’m interested in Java, Angular, Spring Framework, Postgres, Oracle
 - 🌱 I’m currently learning Docker, kafka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
